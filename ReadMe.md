@@ -10,3 +10,5 @@ Please note that, you may know of other ways to do the required actions, however
 Your main goal is to successfully print the cleaned points using a for loop. You can submit a screenshot of your output as proof that you’ve met the requirement.
 
 Please do not focus on the test.js files; those are for GitHub Classroom AutoGrading. You WILL receive full marks if you submit a screenshot showing the correct output, even if you didn’t pass the test.
+
+Dhruv Ghai dghai3@uwo.ca 251357375
